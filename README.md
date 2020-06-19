@@ -2,7 +2,9 @@
  Matlab toolbox for formulating and solving sum-of-squares problems
  Also available from:
  https://www.cds.caltech.edu/sostools/
+ 
  http://sysos.eng.ox.ac.uk/sostools/
+ 
  http://www.mit.edu/~parrilo/sostools/
  
  For citations, please use:
