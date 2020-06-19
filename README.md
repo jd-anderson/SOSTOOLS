@@ -11,7 +11,7 @@
  
 For citations, please use:
 
-manual{sostools,
+@manual{sostools,
 author = {A. Papachristodoulou, J. Anderson, G. Valmorbida, S. Prajna, P. Seiler and P. A. Parrilo},
 title = {{SOSTOOLS}: Sum of squares optimization toolbox for {MATLAB}},
 note = {Available from  \texttt{http://www.cds.caltech.edu/sostools}},
