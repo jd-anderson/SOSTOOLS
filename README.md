@@ -1,5 +1,6 @@
 # SOSTOOLS v3.03
- Matlab toolbox for formulating and solving sum-of-squares problems  \n
+ Matlab toolbox for formulating and solving sum-of-squares problems 
+ 
  Also available from:
  https://www.cds.caltech.edu/sostools/
  
